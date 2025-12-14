@@ -384,7 +384,7 @@ body {
 
 @media (max-width: 768px) {
     .header {
-        padding: 10px 0;
+        padding: 0px 0;
     }
     
     .navbar {
@@ -468,7 +468,7 @@ body {
     }
     
     .header {
-        padding: 8px 0;
+        padding: 0px 0;
     }
     
     .nav-menu {
@@ -571,3 +571,4 @@ body {
         line-height: 1.5;
     }
 }
+
