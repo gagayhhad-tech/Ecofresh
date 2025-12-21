@@ -365,12 +365,6 @@ body {
 
 /*Adaptive*/
 
-/* Стили для десктопов (1200px и выше) */
-@media (min-width: 1200px) {
-    /* Здесь можно добавить дополнительные стили для десктопов при необходимости */
-}
-
-/* Стили для планшетов (768px - 1199px) */
 @media (min-width: 768px) and (max-width: 1199px) {
     .burger-menu {
         display: flex;
@@ -419,7 +413,6 @@ body {
     .hero-title {
         font-size: 42px;
     }
-
     .hero-subtitle {
         font-size: 36px;
     }
@@ -429,7 +422,6 @@ body {
     }
 }
 
-/* Стили для мобильных устройств (767px и ниже) */
 @media (max-width: 767px) {
     .container {
         padding: 0 15px;
